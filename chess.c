@@ -1,5 +1,5 @@
 /*
-  Trabalho de Programação - Batalha Naval
+  Trabalho de Programação - Xadrez
   Curso: Ciência da Computação - Estácio
   Aluna: Islaynne Fernandes Amorim
 */
